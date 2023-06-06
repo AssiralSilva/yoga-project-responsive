@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #E5E5E5;
+    font-family: 'Roboto', sans-serif;
+}
+
+main {
+    width: 35vw;
+    height: 100vh;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+    
+.symbol-yoga {
+    display: block;
+    margin: 195px auto 122px auto;
+}
+
+.username {
+    display: block;
+    width: 319px;
+    height: 46px;
+    margin-right: 48px;
+    margin-bottom: 21px;
+    margin-left: 45px;
+    background: #F7F7F7;
+    border-radius: 10px;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border: none;
+}
+
+.username::placeholder {
+    padding: 15px 234.8px 14px 19.28px;
+}
+
+.password {
+    display: block;
+    width: 319px;
+    height: 46px;
+    margin-right: 48px;
+    margin-bottom: 35px;
+    margin-left: 45px;
+    background: #F7F7F7;
+    border-radius: 10px;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border: none;
+}
+
+.password::placeholder {
+    padding: 15px 233.66px 14px 20.42px;
+}
+
+.forgot {
+    display: block;
+    width: 102px;
+    height: 15px;
+    margin-right: 59px;
+    margin-bottom: 38px;
+    margin-left: 253px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+}
+
+.login {
+    display: block;
+    margin-left: 141px;
+    margin-bottom: 21px;
+    margin-right: 140px;
+    width: 133px;
+    height: 46px;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    padding: 14px 31px 15px 46px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.SignUp {
+    color: #969696;
+    width: 240px;
+    height: 18px;
+    text-decoration: none;
+    display: block;
+    margin-right: 87px;
+    margin-bottom: 62px;
+    margin-left: 87px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+strong {
+    color: #323232;
+}
+
+p {
+    display: block;
+    width: 128px;
+    height: 29px;
+    margin-right: 143px;
+    margin-bottom: 18.5px;
+    margin-left: 143px;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+}
+
+.redessociais1 {
+    display: inline;
+    width: 36px;
+    height: 36px;
+    margin-right: 16.5px;
+    margin-left: 134px;
+}
+
+.redessociais2 {
+    display: inline;
+    width: 36px;
+    height: 36px;
+    margin-right: 16.5px;
+}
+
+.redessociais3 {
+    display: inline;
+    width: 36px;
+    height: 36px;
+}
+
+a {
+    margin-bottom: 82px;
+}
+
+.redes{
+    margin-bottom: 10%;
+}
+
+@media screen and (max-width:768px){
+    main{
+        width: 100vw;
+        height: 100vh;
+        display: block;
+    }
+
+    .username{
+        width: 310px;
+    }
+
+    .password{
+        width: 310px;
+    }
+}
+
+@media screen and (max-width:364px){
+    .redessociais1{
+        margin-left: 100px;
+    }
+}

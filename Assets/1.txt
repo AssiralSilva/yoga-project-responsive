@@ -1,0 +1,2 @@
+: active -> quando o elemento está ativo, ou seja, está sendo pressionado
+:visited -> seleciona o link que foi visitado
