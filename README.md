@@ -9,4 +9,4 @@ Tecnologias usadas:
 
 <a href="https://yoga-project-lari.netlify.app/">Link do site</a>
 
-<img align="center" src="https://github.com/AssiralSilva/yoga-project-responsive/blob/master/Projeto%20Pronto_img/Projeto%20Yoga%20.jpg?raw=true"/>
+<img src="https://github.com/AssiralSilva/yoga-project-responsive/blob/master/Projeto%20Pronto_img/Projeto%20Yoga%20.jpg?raw=true"/>
